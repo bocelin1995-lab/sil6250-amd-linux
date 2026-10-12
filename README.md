@@ -1,5 +1,7 @@
 # sil6250-amd-linux
 
+[![CI](https://github.com/bocelin1995-lab/sil6250-amd-linux/actions/workflows/ci.yml/badge.svg)](https://github.com/bocelin1995-lab/sil6250-amd-linux/actions)
+
 **Make the SIL6250 fingerprint sensor work on Linux — end to end, with Secure
 Boot signing and reboot persistence.**
 
